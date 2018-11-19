@@ -1,11 +1,11 @@
 # LilyDiscordBot
 
-I recently made a wonderful friend via a chance League of Legends encounter, and we connected/messaged over discord.
+I recently made a wonderful friend via a chance League of Legends encounter and we connected/messaged over discord.
 After spending some time with them and their friends I quickly found out this friend never used the server's voice channel because
 they were unable to speak (read as: a mute). This is troublesome because when you're in a discord voice channel,
-many messages in plain text are simply overlooked. 
+many messages in plain text are simply overlooked and ignored. 
 
-Of course, the most natural thing anyone would do here is program a discord bot in python with Google's text to speech API, so that's what happened.
+Of course the most natural thing anyone would do here is program a discord bot in python with Google's text to speech API, so that's what happened.
 
 I made this person a bot (affectionality called Lily) which automatically joins any voice channel a specified user is in, and will orate anything the user types in a general text channel.
 
