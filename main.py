@@ -9,7 +9,7 @@ googleClient = texttospeech.TextToSpeechClient()
 
 global chosenVoice
 
-TOKEN = 'NTE0MDE0ODM3NjA5NzI1OTU0.DtQZlA.2oYQs5OC7eO0wz7vdlq7L5HRsuU'
+TOKEN = 'Insert Token Here'
 
 logging.basicConfig(level=logging.INFO)
 discordClient = discord.Client()
